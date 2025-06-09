@@ -28,7 +28,7 @@ contact-form-validator-js/
 ## 🧪 How to Use
 1. Clone the repository
    ```
-   git clone https://github.com/Mahidhar-27/Task-6.git
+   git clone https://github.com/shaik2234/TASK-6.git
    ```
 3. Open the project  
    - Open the folder in VS Code (or any editor)  
